@@ -1,0 +1,16 @@
+{
+  "name": "node-runtime-relational-caching",
+  "description": "Caches session data in stores that are linked between themselves",
+  "version": "0.0.1",
+  "author": "Xifré Font",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev index.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "@types/node": "^20.6.0",
+    "typescript": "^5.2.2"
+  }
+}
