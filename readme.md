@@ -1,6 +1,7 @@
 # Architecture
 
-## Store function
+## Store function
+
 As modular as it gets!
 
 - Simple post, put, del, etc. API
